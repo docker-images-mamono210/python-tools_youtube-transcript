@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/docker-images-mamono210/python-tools_youtube-transcript/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/docker-images-mamono210/python-tools_youtube-transcript/tree/main)
